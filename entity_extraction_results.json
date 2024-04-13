@@ -1,0 +1,2272 @@
+[
+    {
+        "Id": 69472,
+        "Text": "Patient was admitted to the neurosurgery service and underwent an emergent R craniotomy with drainage of his subdural hemorrhage. Postoperatively he was transferred to the intensive care unit extubated and stable. He was maintained on dilantin for seizure prophylaxis, his blood pressure was controlled and he was monitored with close neuro checks. He was also maintained on prn ativan for prevention of alcohol withdrawal considering patient's significant drinking history. A postoperative CT scan demonstrated postoperative changes and an improvement in his subdural. He remained stable, his diet was advanced and he was awake and appropriate. He was found to have a simple urinary tract infection and was treated with ciprofloxacin. He was evaluated by both occupational and physical therapy and cleared for home. He was discharged to home on POD2 in good condition and will follow up in Dr. clinic for wound  in approximately 10 days.",
+        "Entities": [
+            {
+                "Entity": "CLINICAL_EVENT",
+                "Word": "admitted",
+                "Score": "0.9203476"
+            },
+            {
+                "Entity": "NONBIOLOGICAL_LOCATION",
+                "Word": "neurosurgery service",
+                "Score": "0.8626597"
+            },
+            {
+                "Entity": "DETAILED_DESCRIPTION",
+                "Word": "R",
+                "Score": "0.8046878"
+            },
+            {
+                "Entity": "THERAPEUTIC_PROCEDURE",
+                "Word": "craniotomy",
+                "Score": "0.9133733"
+            },
+            {
+                "Entity": "THERAPEUTIC_PROCEDURE",
+                "Word": "drainage",
+                "Score": "0.83775"
+            },
+            {
+                "Entity": "BIOLOGICAL_STRUCTURE",
+                "Word": "subdural",
+                "Score": "0.97473407"
+            },
+            {
+                "Entity": "CLINICAL_EVENT",
+                "Word": "transferred",
+                "Score": "0.86672777"
+            },
+            {
+                "Entity": "NONBIOLOGICAL_LOCATION",
+                "Word": "intensive care unit",
+                "Score": "0.9036899"
+            },
+            {
+                "Entity": "THERAPEUTIC_PROCEDURE",
+                "Word": "extubated",
+                "Score": "0.8991975"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "dilantin",
+                "Score": "0.97489303"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "blood pressure",
+                "Score": "0.9775475"
+            },
+            {
+                "Entity": "LAB_VALUE",
+                "Word": "controlled",
+                "Score": "0.94274276"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "neuro checks",
+                "Score": "0.985191"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "prn ativan",
+                "Score": "0.7997188"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "CT scan",
+                "Score": "0.88590086"
+            },
+            {
+                "Entity": "BIOLOGICAL_STRUCTURE",
+                "Word": "subdural",
+                "Score": "0.96503323"
+            },
+            {
+                "Entity": "LAB_VALUE",
+                "Word": "advanced",
+                "Score": "0.8994377"
+            },
+            {
+                "Entity": "BIOLOGICAL_STRUCTURE",
+                "Word": "urinary tract",
+                "Score": "0.9388086"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "ciprofloxacin",
+                "Score": "0.9611376"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "occupational",
+                "Score": "0.89161336"
+            },
+            {
+                "Entity": "CLINICAL_EVENT",
+                "Word": "discharged",
+                "Score": "0.8779562"
+            },
+            {
+                "Entity": "LAB_VALUE",
+                "Word": "good",
+                "Score": "0.8184061"
+            },
+            {
+                "Entity": "CLINICAL_EVENT",
+                "Word": "follow",
+                "Score": "0.7847724"
+            },
+            {
+                "Entity": "NONBIOLOGICAL_LOCATION",
+                "Word": "Dr. clinic",
+                "Score": "0.8718838"
+            }
+        ]
+    },
+    {
+        "Id": 69472,
+        "Text": "38 y/o female with history of autoimmune diseases (Crohn's vasculitis, psoriasis) with autoimmune hemolytic anemia following fever. . 1. Autoimmune Hemolytic Anemia: Etiology includes acquired post infectious autoimmune process, reactive autoimmune process after tappering steroids. Presented febrile. WBC was elevated in the setting of hemolysis and elevated bone marow turnover. Fevers could have been due to vasculitis, infection (unclear source). She received 6 units of PRBC's. She was treated initially with IV solumedrol, to which she had some psychosis. She was later changed to Prednisone 80 mg PO QD. Her hemolysis labs slowly improved. Her HCT was stable in the mid 20's. She was treated with B12 and folate. Hematology will follow her as an outpatient. Would recommend watching for fevers once off steroids. . 2. Non Gap Metabolic Acidosis: Likely lactic acidosis from cell lysis, as LDH was elevated. She was treated with IV fluids- Lactated Ringers. . 3. Elevated Blood Sugars: Likely due to steroids. She was covered with insulin based on a sliding scale. . 4. Vasculitis: Much improved per patient with prednisone. Unclear . Diagnosed and followed at B&W Hospital. . 5. Crohn's: Stable. . 6. Psoriasis: Stable. . FULL CODE",
+        "Entities": [
+            {
+                "Entity": "AGE",
+                "Word": "38 y/o",
+                "Score": "0.8851456"
+            },
+            {
+                "Entity": "SEX",
+                "Word": "female",
+                "Score": "0.83596474"
+            },
+            {
+                "Entity": "DISEASE_DISORDER",
+                "Word": "Autoimmune Hemolytic Anemia",
+                "Score": "0.898476"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "febrile",
+                "Score": "0.9172281"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "WBC",
+                "Score": "0.965172"
+            },
+            {
+                "Entity": "LAB_VALUE",
+                "Word": "elevated",
+                "Score": "0.92643434"
+            },
+            {
+                "Entity": "DISEASE_DISORDER",
+                "Word": "hemolysis",
+                "Score": "0.83506125"
+            },
+            {
+                "Entity": "DISEASE_DISORDER",
+                "Word": "infection",
+                "Score": "0.81437594"
+            },
+            {
+                "Entity": "DOSAGE",
+                "Word": "6 units",
+                "Score": "0.81718385"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "PRBC's",
+                "Score": "0.95148265"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "solumedrol",
+                "Score": "0.97792584"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "psychosis",
+                "Score": "0.88054633"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "Prednisone",
+                "Score": "0.9708261"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "hemolysis labs",
+                "Score": "0.8357517"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "HCT",
+                "Score": "0.9758272"
+            },
+            {
+                "Entity": "LAB_VALUE",
+                "Word": "stable",
+                "Score": "0.9132496"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "B12",
+                "Score": "0.9700758"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "folate",
+                "Score": "0.96990776"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "fever",
+                "Score": "0.8842274"
+            },
+            {
+                "Entity": "DISEASE_DISORDER",
+                "Word": "Metabolic Acidosis",
+                "Score": "0.8638303"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "LDH",
+                "Score": "0.9522116"
+            },
+            {
+                "Entity": "LAB_VALUE",
+                "Word": "elevated",
+                "Score": "0.92822623"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "fluids",
+                "Score": "0.9416867"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "Lactated Ringers",
+                "Score": "0.97273093"
+            },
+            {
+                "Entity": "LAB_VALUE",
+                "Word": "Elevated",
+                "Score": "0.8853244"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "Blood Sugars",
+                "Score": "0.8931468"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "insulin",
+                "Score": "0.96017617"
+            },
+            {
+                "Entity": "DISEASE_DISORDER",
+                "Word": "Vasculitis",
+                "Score": "0.9167603"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "prednisone",
+                "Score": "0.93654853"
+            },
+            {
+                "Entity": "CLINICAL_EVENT",
+                "Word": "followed",
+                "Score": "0.84760886"
+            },
+            {
+                "Entity": "NONBIOLOGICAL_LOCATION",
+                "Word": "B&W Hospital",
+                "Score": "0.847502"
+            },
+            {
+                "Entity": "DISEASE_DISORDER",
+                "Word": "Crohn's",
+                "Score": "0.9031403"
+            },
+            {
+                "Entity": "DISEASE_DISORDER",
+                "Word": "Psoriasis",
+                "Score": "0.8501265"
+            }
+        ]
+    },
+    {
+        "Id": 69472,
+        "Text": "The patient was admitted to the Trauma Team for observation.  Secondary to patient's age and multiple rib fractures with associated morbidity, the Anesthesia Department was consulted to perform epidural anesthesia on the patient to aid in the aggressive pulmonary toilet.  The patient declined this.  The patient was treated with morphine until the morning.  Secondary to patient's persistent flank and back pain, the Department of Orthopedics was consulted, L1-L2 transverse processes fractures with stable injuries that required symptomatic treatment and recommended patient being fitted with thoracolumbar corset for comfort.  The patient also received CT imaging of the cervical spine. Findings were notable for multiple areas of anterolisthesis of a mild degree at C3-C4, C4-C5, and C6-C7, C7-T1.  No fractures were identified.  Spinous process of C3 was displaced slightly forward.  DENS intact.  Lateral masses of C1 were well lined on C2 without any soft tissue swelling. The patient also received Flex X plain radiograph and plain film trauma series of the cervical spine, which were negative.  The patient continued to improve during the remainder of the hospital stay under good pain management with morphine and dilaudid.  The patient worked with PT and continued to make an improvement.  Now, the patient is stable with improved pain control.  The patient will be discharged to rehabilitation to progress with independence in mobility.  The patient should followup with the Trauma Clinic in two weeks' time.",
+        "Entities": [
+            {
+                "Entity": "CLINICAL_EVENT",
+                "Word": "admitted",
+                "Score": "0.92559874"
+            },
+            {
+                "Entity": "NONBIOLOGICAL_LOCATION",
+                "Word": "Trauma Team",
+                "Score": "0.86674726"
+            },
+            {
+                "Entity": "BIOLOGICAL_STRUCTURE",
+                "Word": "rib",
+                "Score": "0.878113"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "morphine",
+                "Score": "0.96668017"
+            },
+            {
+                "Entity": "BIOLOGICAL_STRUCTURE",
+                "Word": "flank",
+                "Score": "0.95331144"
+            },
+            {
+                "Entity": "BIOLOGICAL_STRUCTURE",
+                "Word": "back",
+                "Score": "0.95824087"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "pain",
+                "Score": "0.93981194"
+            },
+            {
+                "Entity": "NONBIOLOGICAL_LOCATION",
+                "Word": "Department of Orthopedics",
+                "Score": "0.85649264"
+            },
+            {
+                "Entity": "CLINICAL_EVENT",
+                "Word": "consulted",
+                "Score": "0.7785828"
+            },
+            {
+                "Entity": "BIOLOGICAL_STRUCTURE",
+                "Word": "L1-L2",
+                "Score": "0.9754365"
+            },
+            {
+                "Entity": "BIOLOGICAL_STRUCTURE",
+                "Word": "transverse processes",
+                "Score": "0.88211155"
+            },
+            {
+                "Entity": "THERAPEUTIC_PROCEDURE",
+                "Word": "symptomatic treatment",
+                "Score": "0.84919584"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "CT imaging",
+                "Score": "0.88639116"
+            },
+            {
+                "Entity": "BIOLOGICAL_STRUCTURE",
+                "Word": "cervical spine",
+                "Score": "0.9690685"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "anterolisthesis",
+                "Score": "0.81549025"
+            },
+            {
+                "Entity": "BIOLOGICAL_STRUCTURE",
+                "Word": "C3-C4",
+                "Score": "0.962303"
+            },
+            {
+                "Entity": "BIOLOGICAL_STRUCTURE",
+                "Word": "C4-C5",
+                "Score": "0.9108799"
+            },
+            {
+                "Entity": "BIOLOGICAL_STRUCTURE",
+                "Word": "C6-C7",
+                "Score": "0.93351096"
+            },
+            {
+                "Entity": "BIOLOGICAL_STRUCTURE",
+                "Word": "C7-T1",
+                "Score": "0.8959978"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "fractures",
+                "Score": "0.77423656"
+            },
+            {
+                "Entity": "BIOLOGICAL_STRUCTURE",
+                "Word": "Spinous process of C3",
+                "Score": "0.84513235"
+            },
+            {
+                "Entity": "BIOLOGICAL_STRUCTURE",
+                "Word": "DENS",
+                "Score": "0.908645"
+            },
+            {
+                "Entity": "BIOLOGICAL_STRUCTURE",
+                "Word": "Lateral",
+                "Score": "0.7816631"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "masses",
+                "Score": "0.8654348"
+            },
+            {
+                "Entity": "BIOLOGICAL_STRUCTURE",
+                "Word": "C1",
+                "Score": "0.75177395"
+            },
+            {
+                "Entity": "BIOLOGICAL_STRUCTURE",
+                "Word": "C2",
+                "Score": "0.8906342"
+            },
+            {
+                "Entity": "DETAILED_DESCRIPTION",
+                "Word": "plain film",
+                "Score": "0.85412824"
+            },
+            {
+                "Entity": "BIOLOGICAL_STRUCTURE",
+                "Word": "cervical spine",
+                "Score": "0.97350836"
+            },
+            {
+                "Entity": "LAB_VALUE",
+                "Word": "negative",
+                "Score": "0.86440164"
+            },
+            {
+                "Entity": "THERAPEUTIC_PROCEDURE",
+                "Word": "pain management",
+                "Score": "0.82560104"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "morphine",
+                "Score": "0.9765844"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "dilaudid",
+                "Score": "0.973013"
+            },
+            {
+                "Entity": "CLINICAL_EVENT",
+                "Word": "discharged",
+                "Score": "0.830504"
+            },
+            {
+                "Entity": "NONBIOLOGICAL_LOCATION",
+                "Word": "Trauma Clinic",
+                "Score": "0.81728536"
+            }
+        ]
+    },
+    {
+        "Id": 69472,
+        "Text": "62 yo F PMH of afib, TIA, memory loss s/p hypoglycemic coma, chronic low back pain, anemia, GERD, asthma recently admitted with subarachnoid hemorrhage  readmitted with acute change in mental status  acute on chronic hypercarbic respiratory failure . # Acute on chronic hypercarbic respiratory failure: Patient was felt to have a multifactorial etiologies for her respirtory failure including central and obstructive apnea, a chronic paralyzed R hemidiaphragm, and obesity hypoventilation which all contibuted to her difficulty with respiration. She underwent tracheostomy and had significant improvement in oxygenation and acid base status. She remained mostly on AC vent settings with daily pressure support trials which were sometimes limited by hypercarbia. In addition, during pressure support trials she occasionally desat in setting of decreasing TV to 280's. In addition, she would benefit from diamox PRN to aid with alkalosis while on vent.  She was also noted to be volume overloaded with a length of stay net +7L. Her CXR was suggestive of pulmonary edema, and lasix gtt was started on  with goal for 1-2L fluid removal. After discharge, her lasix gtt should be adjusted to pulmonary exam. . # Tracheal tear: On , pt underwent a CTA to rule out PE given tachycardia and hypoxia. CT revealed and abnl trachea. The next day, patient was taken to OR for fiberoptic intubation and rigid bronch which showed a 5cm tracheal tear. IP was involved and recommended prolonged intubation to allow tear to heal as well as ppx abx with Unasyn and fluconazole (both started on ) for total 10 day course (last day ). After further discussion with family and IP, it was felt that the most cautious management for be for tracheostomy to bypass the area of the tear given that she is at very high risk for repeated intubation and the risk of causing perforation of the tear would be greater in setting of re-intubation. She tolerated the tracheostomy. She will need follow-up with Dr.   in  weeks. Trach can NOT be changed until after . Sutures can be removed after . . # ? Mass in L hilum: Pt reportedly has a mass on OSH chest CT in L hilum at location of bleed which was noticed by IP during bronchoscopy. This will need to be assessed with contrast CT as an outpatient. Please arrange with her PCP to have this follow-up. . # Recent Left temporal hemorrhage: Unclear etiology, less likely due to trauma, more likely  HTN and anticoagulation. No evidence of rebleeding or new bleed on head CT. She will need follow-up with neurosurgery (Dr.  , ) within one month post-discharge. At that time, he will re-evaluate restarting coumadin and aspirin.  She was maintained on keppra for seizure ppx in setting of bleed. . # Paroxysmal Atrial fibrillation: HR remained mostly well controlled int he 60's. Coumadin and aspirin were held given recent hemorrhage.  She will need to discuss restarting anticoagulation with neurosurgeon. . # HTN: Her BP was variable. Her regimen was adjusted to include enalapril 30 mg daily and hydralazine 25 mg PO QID. Her metoprolol was intermittently held given bradycardia, but it was felt that she does need nodal blockade for her paroxsysmal afib. . # Altered mental status: Improved steadily over hospital course, but pt still frequently confused. Per her husband, this is near her baseline following anoxic brain injury and hypoglycemia in the past. Head CT unchanged, Chest CTA w/o PE, no evidence of MI, TTE w/ nl EF, UA unremarkable. . # Hypernatremia: She was found to be intermittently hypernatremia and her free water flushes were adjusted accordingly.",
+        "Entities": [
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "anemia",
+                "Score": "0.88620955"
+            },
+            {
+                "Entity": "DETAILED_DESCRIPTION",
+                "Word": "obstructive",
+                "Score": "0.8052352"
+            },
+            {
+                "Entity": "DETAILED_DESCRIPTION",
+                "Word": "paralyzed",
+                "Score": "0.7989328"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "hemidiaphragm",
+                "Score": "0.76918465"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "hypoventilation",
+                "Score": "0.85193974"
+            },
+            {
+                "Entity": "THERAPEUTIC_PROCEDURE",
+                "Word": "tracheostomy",
+                "Score": "0.8927663"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "oxygenation",
+                "Score": "0.77136964"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "hypercarbia",
+                "Score": "0.88393897"
+            },
+            {
+                "Entity": "DETAILED_DESCRIPTION",
+                "Word": "pressure support",
+                "Score": "0.8461927"
+            },
+            {
+                "Entity": "LAB_VALUE",
+                "Word": "280's",
+                "Score": "0.8402934"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "alkalosis",
+                "Score": "0.8759134"
+            },
+            {
+                "Entity": "LAB_VALUE",
+                "Word": "+7L",
+                "Score": "0.84347486"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "CXR",
+                "Score": "0.98645365"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "pulmonary exam",
+                "Score": "0.86454105"
+            },
+            {
+                "Entity": "BIOLOGICAL_STRUCTURE",
+                "Word": "Tracheal",
+                "Score": "0.9537997"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "tear",
+                "Score": "0.9371263"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "CTA",
+                "Score": "0.9806737"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "tachycardia",
+                "Score": "0.9529382"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "hypoxia",
+                "Score": "0.9323148"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "CT",
+                "Score": "0.9718227"
+            },
+            {
+                "Entity": "BIOLOGICAL_STRUCTURE",
+                "Word": "trachea",
+                "Score": "0.9546408"
+            },
+            {
+                "Entity": "DATE",
+                "Word": "next day",
+                "Score": "0.80081606"
+            },
+            {
+                "Entity": "CLINICAL_EVENT",
+                "Word": "taken",
+                "Score": "0.78776926"
+            },
+            {
+                "Entity": "THERAPEUTIC_PROCEDURE",
+                "Word": "fiberoptic intubation",
+                "Score": "0.8361303"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "bronch",
+                "Score": "0.80249596"
+            },
+            {
+                "Entity": "BIOLOGICAL_STRUCTURE",
+                "Word": "tracheal",
+                "Score": "0.9604125"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "tear",
+                "Score": "0.9389181"
+            },
+            {
+                "Entity": "THERAPEUTIC_PROCEDURE",
+                "Word": "intubation",
+                "Score": "0.8594452"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "Unasyn",
+                "Score": "0.97631854"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "fluconazole",
+                "Score": "0.9758581"
+            },
+            {
+                "Entity": "THERAPEUTIC_PROCEDURE",
+                "Word": "tracheostomy",
+                "Score": "0.87137944"
+            },
+            {
+                "Entity": "THERAPEUTIC_PROCEDURE",
+                "Word": "tracheostomy",
+                "Score": "0.82287663"
+            },
+            {
+                "Entity": "THERAPEUTIC_PROCEDURE",
+                "Word": "Trach",
+                "Score": "0.82999593"
+            },
+            {
+                "Entity": "THERAPEUTIC_PROCEDURE",
+                "Word": "Sutures",
+                "Score": "0.8898183"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "Mass",
+                "Score": "0.8922239"
+            },
+            {
+                "Entity": "BIOLOGICAL_STRUCTURE",
+                "Word": "L hilum",
+                "Score": "0.97902995"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "mass",
+                "Score": "0.9389611"
+            },
+            {
+                "Entity": "BIOLOGICAL_STRUCTURE",
+                "Word": "OSH chest",
+                "Score": "0.91260767"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "CT",
+                "Score": "0.8882121"
+            },
+            {
+                "Entity": "BIOLOGICAL_STRUCTURE",
+                "Word": "L hilum",
+                "Score": "0.9771254"
+            },
+            {
+                "Entity": "DETAILED_DESCRIPTION",
+                "Word": "contrast",
+                "Score": "0.83814126"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "CT",
+                "Score": "0.833958"
+            },
+            {
+                "Entity": "BIOLOGICAL_STRUCTURE",
+                "Word": "Left temporal",
+                "Score": "0.9787029"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "hemorrhage",
+                "Score": "0.9242326"
+            },
+            {
+                "Entity": "DISEASE_DISORDER",
+                "Word": "HTN",
+                "Score": "0.8552338"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "rebleeding",
+                "Score": "0.9015298"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "bleed",
+                "Score": "0.92037755"
+            },
+            {
+                "Entity": "BIOLOGICAL_STRUCTURE",
+                "Word": "head",
+                "Score": "0.9555195"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "coumadin",
+                "Score": "0.97746783"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "aspirin",
+                "Score": "0.9765039"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "keppra",
+                "Score": "0.97429246"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "HR",
+                "Score": "0.9689915"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "Coumadin",
+                "Score": "0.9755404"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "aspirin",
+                "Score": "0.97863925"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "hemorrhage",
+                "Score": "0.8598323"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "anticoagulation",
+                "Score": "0.84215796"
+            },
+            {
+                "Entity": "LAB_VALUE",
+                "Word": "variable",
+                "Score": "0.8166409"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "enalapril",
+                "Score": "0.97856617"
+            },
+            {
+                "Entity": "DOSAGE",
+                "Word": "30 mg daily",
+                "Score": "0.889159"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "hydralazine",
+                "Score": "0.97662157"
+            },
+            {
+                "Entity": "DOSAGE",
+                "Word": "25 mg PO",
+                "Score": "0.8259945"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "metoprolol",
+                "Score": "0.97504526"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "bradycardia",
+                "Score": "0.93620443"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "Altered mental status",
+                "Score": "0.8410065"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "confused",
+                "Score": "0.9522118"
+            },
+            {
+                "Entity": "BIOLOGICAL_STRUCTURE",
+                "Word": "Head",
+                "Score": "0.95888096"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "CT",
+                "Score": "0.98043984"
+            },
+            {
+                "Entity": "LAB_VALUE",
+                "Word": "unchanged",
+                "Score": "0.81769526"
+            },
+            {
+                "Entity": "BIOLOGICAL_STRUCTURE",
+                "Word": "Chest",
+                "Score": "0.9709316"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "CTA",
+                "Score": "0.98660856"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "PE",
+                "Score": "0.89296997"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "EF",
+                "Score": "0.9213445"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "UA",
+                "Score": "0.97905046"
+            },
+            {
+                "Entity": "LAB_VALUE",
+                "Word": "unremarkable",
+                "Score": "0.8638198"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "Hypernatremia",
+                "Score": "0.9608317"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "hypernatremia",
+                "Score": "0.9744708"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "free water flushes",
+                "Score": "0.975857"
+            }
+        ]
+    },
+    {
+        "Id": 69472,
+        "Text": "The patient developed a moderate to large circumferential pericardial effusion, for which he underwent pericardiocentesis in the cath lab.  Procedure was complicated by RV laceration. He became hemodynamically unstable with systolic blood pressure in the 60-80mmHg range, requiring dopamine and volume resuscitation.  He was rushed to the operating room for mediastinal exploration and repair of right ventricle laceration.  Overall he tolerated the procedure well, and post-operatively was transferred to the CVICU for observation and invasive monitoring.  Vancomycin was used for surgical antibiotic prophylaxis given the preoperative length of stay of greater than 24 hours.  POD 1 found the patient extubated, alert and oriented and breathing comfortably.  The patient was neurologically intact and hemodynamically stable on no inotropic or vasopressor support.  Beta blocker was initiated and the patient was gently diuresed toward the preoperative weight.  The patient was transferred to the telemetry floor for further recovery.  He did develop post-operative atrial fibrillation, and amiodarone was initiated.  Chest tubes were discontinued without complication.  The patient was evaluated by the physical therapy service for assistance with strength and mobility.  By the time of discharge on POD 4 the patient was ambulating freely, the wound was healing and pain was controlled with oral analgesics.  The patient was discharged to home in good condition with appropriate follow up instructions.",
+        "Entities": [
+            {
+                "Entity": "DETAILED_DESCRIPTION",
+                "Word": "circumferential",
+                "Score": "0.8904552"
+            },
+            {
+                "Entity": "DISEASE_DISORDER",
+                "Word": "pericardial effusion",
+                "Score": "0.89328444"
+            },
+            {
+                "Entity": "THERAPEUTIC_PROCEDURE",
+                "Word": "pericardiocentesis",
+                "Score": "0.9215903"
+            },
+            {
+                "Entity": "NONBIOLOGICAL_LOCATION",
+                "Word": "cath lab",
+                "Score": "0.80979097"
+            },
+            {
+                "Entity": "BIOLOGICAL_STRUCTURE",
+                "Word": "RV",
+                "Score": "0.9264055"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "hemodynamically",
+                "Score": "0.7462332"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "unstable",
+                "Score": "0.7471709"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "systolic blood pressure",
+                "Score": "0.9200235"
+            },
+            {
+                "Entity": "LAB_VALUE",
+                "Word": "60-80mmHg range",
+                "Score": "0.9235111"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "dopamine",
+                "Score": "0.96771425"
+            },
+            {
+                "Entity": "CLINICAL_EVENT",
+                "Word": "rushed",
+                "Score": "0.85766053"
+            },
+            {
+                "Entity": "NONBIOLOGICAL_LOCATION",
+                "Word": "operating room",
+                "Score": "0.8208468"
+            },
+            {
+                "Entity": "THERAPEUTIC_PROCEDURE",
+                "Word": "exploration",
+                "Score": "0.7416644"
+            },
+            {
+                "Entity": "THERAPEUTIC_PROCEDURE",
+                "Word": "repair",
+                "Score": "0.8247122"
+            },
+            {
+                "Entity": "BIOLOGICAL_STRUCTURE",
+                "Word": "right ventricle",
+                "Score": "0.9625261"
+            },
+            {
+                "Entity": "CLINICAL_EVENT",
+                "Word": "transferred",
+                "Score": "0.8693683"
+            },
+            {
+                "Entity": "NONBIOLOGICAL_LOCATION",
+                "Word": "CVICU",
+                "Score": "0.8312633"
+            },
+            {
+                "Entity": "DETAILED_DESCRIPTION",
+                "Word": "invasive",
+                "Score": "0.77605957"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "Vancomycin",
+                "Score": "0.9718234"
+            },
+            {
+                "Entity": "THERAPEUTIC_PROCEDURE",
+                "Word": "extubated",
+                "Score": "0.87337905"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "alert",
+                "Score": "0.8127774"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "neurologically",
+                "Score": "0.802106"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "hemodynamically",
+                "Score": "0.8636253"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "Beta blocker",
+                "Score": "0.9687591"
+            },
+            {
+                "Entity": "THERAPEUTIC_PROCEDURE",
+                "Word": "diuresed",
+                "Score": "0.82159203"
+            },
+            {
+                "Entity": "CLINICAL_EVENT",
+                "Word": "transferred",
+                "Score": "0.867253"
+            },
+            {
+                "Entity": "NONBIOLOGICAL_LOCATION",
+                "Word": "telemetry floor",
+                "Score": "0.8127563"
+            },
+            {
+                "Entity": "DISEASE_DISORDER",
+                "Word": "atrial fibrillation",
+                "Score": "0.9002962"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "amiodarone",
+                "Score": "0.9787303"
+            },
+            {
+                "Entity": "THERAPEUTIC_PROCEDURE",
+                "Word": "tubes",
+                "Score": "0.7490427"
+            },
+            {
+                "Entity": "CLINICAL_EVENT",
+                "Word": "discharge",
+                "Score": "0.8697972"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "ambulating",
+                "Score": "0.8807533"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "pain",
+                "Score": "0.7364222"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "analgesics",
+                "Score": "0.8742939"
+            },
+            {
+                "Entity": "CLINICAL_EVENT",
+                "Word": "discharged",
+                "Score": "0.8477044"
+            }
+        ]
+    },
+    {
+        "Id": 69472,
+        "Text": "56 year old male with a past medical history of cerebral atriaovenous malformation (AVM) staus post coiling with residual left sided hemipareisis and disorientation with known C. Diff colitis s/p day 4 of treatment with falgyl and spiked a temperature to 103.8 in the ED and vomiting and diarreha and leukocytosis, found to have sepsis due to a urinary tract infection and C. diff colitis.",
+        "Entities": [
+            {
+                "Entity": "AGE",
+                "Word": "56 year old",
+                "Score": "0.8630561"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "disorientation",
+                "Score": "0.9279901"
+            },
+            {
+                "Entity": "DISEASE_DISORDER",
+                "Word": "C. Diff colitis",
+                "Score": "0.86818075"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "falgyl",
+                "Score": "0.95604664"
+            },
+            {
+                "Entity": "LAB_VALUE",
+                "Word": "103.8",
+                "Score": "0.9193817"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "vomiting",
+                "Score": "0.94696647"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "diarreha",
+                "Score": "0.9396554"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "leukocytosis",
+                "Score": "0.9284409"
+            },
+            {
+                "Entity": "DISEASE_DISORDER",
+                "Word": "urinary tract infection",
+                "Score": "0.88922715"
+            },
+            {
+                "Entity": "DISEASE_DISORDER",
+                "Word": "C. diff colitis",
+                "Score": "0.9035724"
+            }
+        ]
+    },
+    {
+        "Id": 69472,
+        "Text": "(By issue)  1.  Right lower extremity cellulitis and ulcerations - The patient was admitted to the Podiatry Service on  for the cellulitis of the right lower extremity.  On admission she was started on Vancomycin, Levaquin and Flagyl for broad coverage.  Blood cultures and wound cultures were taken.  Both grew out Escherichia coli. In order to more specifically cover, the patient's antibiotics were changed to Oxacillin and Ceftriaxone.  The patient has also had hardware in her right ankle and because of the possibility that this was seated, the patient required surgery.  Her Coumadin was discontinued and once her INR had decreased close to baseline, she was taken to the Operating Room for hardware removal.  This was done on . Postoperatively the patient is stable on Oxacillin and Ceftriaxone until two days after the operation.  Then due to concern for pneumonia her antibiotic coverage was changed to Zosyn and Vancomycin.  She continued this for three days and then was only on Zosyn.  Her right lower extremity was in a vacuum-assisted closure dressing and continued to improve, healing by secondary intention.  She has been followed by Podiatry.  Her left lower extremity ulcer also continued to improve.  X-rays showed an old fracture without any changes in the left foot.  The patient did not have any further signs of worsening cellulitis or infection of her extremities.  2.  Respiratory - On , the patient developed hypoxia with an oxygen saturation of 80% on room air and hypertension with systolic blood pressure in the 190s.  She was also complaining of a new productive cough.  Chest x-ray done on that day was consistent with congestive heart failure and the patient was given Lasix.  There is also question of a right lower lobe infiltrate on the chest x-ray, so Azithromycin was initially added to her regimen of Ceftriaxone and Oxacillin. On the same day, the patient also developed mental status changes which was possibly thought to be related to her hypoxia.  At this point, due to concern for pneumonia and respiratory compromise, the patient's antibiotic coverage was changed to Vancomycin and Zosyn and she was transferred to the Intensive Care Unit for closer monitoring.  She was never intubated.  She was continued on Zosyn and Vancomycin and a sputum culture was obtained.  The sputum culture showed  and did not grow out any bacteria.  The patient's respiratory status improved with decrease in oxygen requirements.  Once the sputum culture was negative for any bacteria and there was no evidence of Methicillin-resistant Staphylococcus aureus her Vancomycin was discontinued.  She was continued on Zosyn for treatment of possible aspiration pneumonia and for her cellulitis.  3.  Congestive heart failure - The patient required Lasix intermittently for mild hypoxia and crackles on lung examination indicative of congestive heart failure.  She was also on Zestril 20 mg b.i.d. initially and then titrated up for afterload reduction.  Her blood pressure was labile but was controlled with Catapres, Lopressor, and Zestril.  4.  Anticoagulation - The patient's Coumadin was discontinued as was previously mentioned in order to be taken to the Operating Room.  While off Coumadin the patient was on a heparin drip for her history of deep vein thrombosis and pulmonary embolism.  Once it was decided that no further procedures would be done by Podiatry she was restarted on Coumadin.  Her heparin drip was continued until her INR would be in the goal range of 2 to 3.  5.  Chronic back pain - The patient had chronic back for which she had been on Nubain at home.  While in the hospital she was started on a morphine PCA.  Initially there was no basal rate, however, the patient was not using the PCA and therefore basal rate was added.  Plan was for the patient to have a morphine placed by Neurosurgery once her active acute issues are cleared.  This will probably be done after discharge.  She was also on Baclofen, Tizanidine and Vioxx for her pain.  6.  Hypothyroidism - The patient was continued on Levoxyl.  7.  Psyche - The patient was on Celexa and Klonopin.  8.  Dysphagia - The patient had a swallowing study previously done in , in order to evaluate symptoms of dysphagia. This showed a possible offer for esophageal sphincter dysfunction, no further workup was done at the time.  On this admission there is a question of aspiration pneumonia and the patient was re-evaluated by the swallowing service.  Again there was no evidence of aspiration but evidence that there was upper esophageal dysfunction.  The patient will require a gastroenterology follow up for workup and possible dilatation.  For now, she will be on a soft diet with frequent liquids when eating.  9.  Anemia - The patient has a history of chronic anemia requiring blood transfusions.  While in the hospital she also had periods of time when her hematocrit was below 30.  There were no signs of active bleeding.  The iron studies showed a mixed picture with decreased iron and TIBC and elevated Ferritin.  The patient's iron to TIBC ratio was low suggesting a possible combination of iron deficiency anemia, anemia of chronic disease and possibly anemia related to the patient's hypothyroidism.  The patient was given blood transfusions as needed to maintain her hematocrit greater than 30, given her history of congestive heart failure.  10. Diabetes Type 2 - The patient was continued on a sliding scale of insulin.  Her Metformin was held when she was not eating.  It will be restarted when she is eating more stabilely.",
+        "Entities": [
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "hypoxia",
+                "Score": "0.8420739"
+            },
+            {
+                "Entity": "THERAPEUTIC_PROCEDURE",
+                "Word": "tubated",
+                "Score": "0.7258642"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "Zosyn",
+                "Score": "0.69562256"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "sputum culture",
+                "Score": "0.89648914"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "sputum culture",
+                "Score": "0.8531294"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "sputum culture",
+                "Score": "0.8474568"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "Vancomycin",
+                "Score": "0.853628"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "Zosyn",
+                "Score": "0.9404919"
+            },
+            {
+                "Entity": "DISEASE_DISORDER",
+                "Word": "heart failure",
+                "Score": "0.81251943"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "Lasix",
+                "Score": "0.87459254"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "hypoxia",
+                "Score": "0.9354422"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "crackles",
+                "Score": "0.91330564"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "lung",
+                "Score": "0.7478452"
+            },
+            {
+                "Entity": "DISEASE_DISORDER",
+                "Word": "congestive heart failure",
+                "Score": "0.8683378"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "Zestril",
+                "Score": "0.9723792"
+            },
+            {
+                "Entity": "DOSAGE",
+                "Word": "20 mg",
+                "Score": "0.91557765"
+            },
+            {
+                "Entity": "DOSAGE",
+                "Word": "b.i.d.",
+                "Score": "0.8412234"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "blood pressure",
+                "Score": "0.94313145"
+            },
+            {
+                "Entity": "LAB_VALUE",
+                "Word": "labile",
+                "Score": "0.79954255"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "Catapres",
+                "Score": "0.96084106"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "Lopressor",
+                "Score": "0.96818477"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "Zestril",
+                "Score": "0.9723731"
+            },
+            {
+                "Entity": "THERAPEUTIC_PROCEDURE",
+                "Word": "Anticoagulation",
+                "Score": "0.73549235"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "Coumadin",
+                "Score": "0.96808225"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "Coumadin",
+                "Score": "0.90774226"
+            },
+            {
+                "Entity": "DISEASE_DISORDER",
+                "Word": "deep vein thrombosis",
+                "Score": "0.75978845"
+            },
+            {
+                "Entity": "DISEASE_DISORDER",
+                "Word": "pulmonary embolism",
+                "Score": "0.77227986"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "Coumadin",
+                "Score": "0.9694087"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "INR",
+                "Score": "0.94114965"
+            },
+            {
+                "Entity": "DETAILED_DESCRIPTION",
+                "Word": "Chronic",
+                "Score": "0.7538689"
+            },
+            {
+                "Entity": "BIOLOGICAL_STRUCTURE",
+                "Word": "back",
+                "Score": "0.9064156"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "pain",
+                "Score": "0.87312984"
+            },
+            {
+                "Entity": "DETAILED_DESCRIPTION",
+                "Word": "chronic",
+                "Score": "0.7037651"
+            },
+            {
+                "Entity": "BIOLOGICAL_STRUCTURE",
+                "Word": "back",
+                "Score": "0.8246067"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "Nubain",
+                "Score": "0.97378474"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "morphine",
+                "Score": "0.9515509"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "morphine",
+                "Score": "0.93297535"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "Baclofen",
+                "Score": "0.97600627"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "Tizanidine",
+                "Score": "0.97436094"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "Vioxx",
+                "Score": "0.9736985"
+            },
+            {
+                "Entity": "DISEASE_DISORDER",
+                "Word": "Hypothyroidism",
+                "Score": "0.7713921"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "Levoxyl",
+                "Score": "0.9739476"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "Psyche",
+                "Score": "0.9293854"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "Celexa",
+                "Score": "0.97279584"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "Klonopin",
+                "Score": "0.9682956"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "Dysphagia",
+                "Score": "0.7252272"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "swallowing study",
+                "Score": "0.97656834"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "dysphagia",
+                "Score": "0.9134571"
+            },
+            {
+                "Entity": "BIOLOGICAL_STRUCTURE",
+                "Word": "esophageal",
+                "Score": "0.84566224"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "aspiration",
+                "Score": "0.87481046"
+            },
+            {
+                "Entity": "BIOLOGICAL_STRUCTURE",
+                "Word": "upper esophageal",
+                "Score": "0.9145005"
+            },
+            {
+                "Entity": "THERAPEUTIC_PROCEDURE",
+                "Word": "dilatation",
+                "Score": "0.79970807"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "Anemia",
+                "Score": "0.7584538"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "hematocrit",
+                "Score": "0.9788863"
+            },
+            {
+                "Entity": "LAB_VALUE",
+                "Word": "below 30",
+                "Score": "0.91551626"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "bleeding",
+                "Score": "0.9003193"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "iron studies",
+                "Score": "0.98825765"
+            },
+            {
+                "Entity": "LAB_VALUE",
+                "Word": "mixed",
+                "Score": "0.8418986"
+            },
+            {
+                "Entity": "LAB_VALUE",
+                "Word": "decreased",
+                "Score": "0.819019"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "iron",
+                "Score": "0.93413854"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "TIBC",
+                "Score": "0.7232547"
+            },
+            {
+                "Entity": "LAB_VALUE",
+                "Word": "elevated",
+                "Score": "0.9483319"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "Ferritin",
+                "Score": "0.98233384"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "iron to TIBC ratio",
+                "Score": "0.9629949"
+            },
+            {
+                "Entity": "LAB_VALUE",
+                "Word": "low",
+                "Score": "0.9192709"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "hematocrit",
+                "Score": "0.90999454"
+            },
+            {
+                "Entity": "DISEASE_DISORDER",
+                "Word": "Diabetes Type 2",
+                "Score": "0.860403"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "insulin",
+                "Score": "0.94380057"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "Metformin",
+                "Score": "0.95199126"
+            }
+        ]
+    },
+    {
+        "Id": 69472,
+        "Text": "78 y/o M with PMHx of CAD s/p CABG & MI, Metastatic Carcinoid and chronic abd/back pain who presents with decreased po intake, diarrhea, lethargy and hypotension found to have colitis on CT. His hospital course showed a progressive decline in function where his mental status and physical condition slowly declined despite treatment of his medical problems. . AMS: Variable course over his stay, likely multifactorial with possible etiologies including narcotics, toxic/metabolic related to renal failure. It appears to be most consistent with delirium. Had CT head with contrast on , but this does not definitively r/o brain metastases. Neuro exam is nonfocal. BUN has improved over the last 10 days. At d/c continued to be AO X 1, but has remained clear on his intentions to not escalate care with the desire to return home and be with family.",
+        "Entities": [
+            {
+                "Entity": "HISTORY",
+                "Word": "PMHx",
+                "Score": "0.7795711"
+            },
+            {
+                "Entity": "DETAILED_DESCRIPTION",
+                "Word": "chronic",
+                "Score": "0.9160329"
+            },
+            {
+                "Entity": "BIOLOGICAL_STRUCTURE",
+                "Word": "abd/back",
+                "Score": "0.85611826"
+            },
+            {
+                "Entity": "CLINICAL_EVENT",
+                "Word": "presents",
+                "Score": "0.7091141"
+            },
+            {
+                "Entity": "LAB_VALUE",
+                "Word": "decreased",
+                "Score": "0.7933042"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "diarrhea",
+                "Score": "0.9631573"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "lethargy",
+                "Score": "0.96281296"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "hypotension",
+                "Score": "0.9621574"
+            },
+            {
+                "Entity": "DISEASE_DISORDER",
+                "Word": "colitis",
+                "Score": "0.8544426"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "CT",
+                "Score": "0.9774975"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "function",
+                "Score": "0.9113249"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "mental status",
+                "Score": "0.9840729"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "physical condition",
+                "Score": "0.9836955"
+            },
+            {
+                "Entity": "DISEASE_DISORDER",
+                "Word": "renal failure",
+                "Score": "0.8477707"
+            },
+            {
+                "Entity": "DISEASE_DISORDER",
+                "Word": "delirium",
+                "Score": "0.79668516"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "CT",
+                "Score": "0.9752181"
+            },
+            {
+                "Entity": "BIOLOGICAL_STRUCTURE",
+                "Word": "brain",
+                "Score": "0.78016543"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "Neuro exam",
+                "Score": "0.9885193"
+            },
+            {
+                "Entity": "LAB_VALUE",
+                "Word": "nonfocal",
+                "Score": "0.8686062"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "BUN",
+                "Score": "0.9824263"
+            },
+            {
+                "Entity": "LAB_VALUE",
+                "Word": "improved",
+                "Score": "0.9124484"
+            },
+            {
+                "Entity": "DURATION",
+                "Word": "the last 10 days",
+                "Score": "0.6785532"
+            },
+            {
+                "Entity": "LAB_VALUE",
+                "Word": "AO X 1",
+                "Score": "0.69849163"
+            }
+        ]
+    },
+    {
+        "Id": 69472,
+        "Text": "Patient is a 45 y/o female with CAD s/p CABG, diastolic HF and kidney transplant presenting from OSH with shortness of breath. . # CORONARIES:  Known CAD s/p CABG in .  Was cathed on admission which showed no change from previous cath in . Report was as follows: Coronary angiography in this right dominant system revealed diffuse multivessel coronary artery disease.  The LMCA had no significant stenosis.  The LAD had a 70% mid-portion stenosis after the D1 branch with competitive flow from a patent LIMA that filled the distal vessel. The LCX had severe diffuse disease in the mid-portion extending into a distal branching OM that was unchanged compared with prior caths in  and  performed after known SVG-OM occlusion.  The RCA was not injected.  The SVG-->R-PDA was patent with filling of a diffusely diseased distal RCA.  The LIMA-LAD was patent. Resting hemodynamics performed on intravenous nitroglycerine revealed slightly  left and right filling pressures with mean RA pressure of 10 mmHg and mean PCWP of 15 mmHg. No intervention was performed at this time.  Patient denied chest pain or anginal equivalent while in hospital.  The patient underwent a repeat cardiac cath on  with PTCA of the left circumflex artery, which was thought to be contributing to the patient's symptoms. Final angiography revealed 30% residual stenosis, no angiographically apparent dissection, and TIMI 3 flow.  Patient was continued on telemetry without events.  She was continued on aspirin, atorvastatin, plavix, and metoprolol was changed to 12.5 mg XL. . # PUMP:  History of diastolic dysfunction now presented with CHF exacerbation.  ECHO  showed low normal LVEF (50-55%), Grade II (moderate) LV diastolic dysfunction, and Moderate (2+) mitral regurgitation.  The patient also had an episode of flash pulmonary edema, which responded to lasix diuresis and temporary NRB mask.  Patient was treated with metoprolol 12.5 XL, nifedipine was changed to Lisinopril and Lasix was increased to 40 mg daily.  In addition, the patient was extensively counseled on self-monitoring fluid status with daily self weights and titration of lasix as needed to prevent further episodes of pulmonary edema. Weight at discharge was 59 kg. . # RHYTHM:  Patient remained in NSR. Her metoprolol was changed from 50 mg  to 12.5 mg extended release. . # Immune Suppression: Patient is s/p living donor kidney transplant.  She was continued on sirolimus 3 mg daily and tacrolimus 2 mg twice daily, as per home regimen.  Home dose of prednisone (4mg daily) and bactrim prophylaxis continued as well. . # Diabetes Mellitus Type I: Last A1C on  was 8.7%.  During admission, pt was continued on Lantus plus sliding scale insulin with good blood glucose control. She has a follow-up appt with her endocrinologist in 1 week. . # Chronic Renal Disease: Patient is s/p kidney transplant. Her creatinine over the last year has ranged from 0.8-1.1. During the course of her hospitalization, the patient had a Cr mildly  from baseline, consistent with acute on chronic renal failure, likely secondary to contrast administration from multiple cardiac catheterizations.  On discharge, Cr was 1.3. . # Hypertension: Patient was initially continued on home doses of metoprolol and nifedipine extended release.  After diuresis, patient had an episode of hypotension and nifedipine was discontinued, and metoprolol 50 mg  changed to 12.5 mg XR po daily. Lisinopril was added for afterload reduction and can be tapered up as needed to keep SBP in goal range of 120-140. . # Depression: continued on home medications of bupropion and citalopram. She has f/u with her ouptpt psychiatrist. . # Pain: Questionable allergy to codeine- patient reports nausea/vomiting but has been taking oxycodone recently for ankle fracture. Discharged on Ultram for left leg pain. Note that pt has tolerated oxycodone Po for treatment of her left leg pain. . # Insomnia: Continued on home dose of trazodone. . # Nausea: Continued on reglan and zofran. . # Osteoporosis: Continued vitamin D and calcium.",
+        "Entities": [
+            {
+                "Entity": "BIOLOGICAL_STRUCTURE",
+                "Word": "distal RCA",
+                "Score": "0.8713365"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "nitroglycerine",
+                "Score": "0.8841719"
+            },
+            {
+                "Entity": "LAB_VALUE",
+                "Word": "10 mmHg",
+                "Score": "0.92477447"
+            },
+            {
+                "Entity": "LAB_VALUE",
+                "Word": "15 mmHg",
+                "Score": "0.89927304"
+            },
+            {
+                "Entity": "BIOLOGICAL_STRUCTURE",
+                "Word": "chest",
+                "Score": "0.9224305"
+            },
+            {
+                "Entity": "THERAPEUTIC_PROCEDURE",
+                "Word": "PTCA",
+                "Score": "0.8664378"
+            },
+            {
+                "Entity": "BIOLOGICAL_STRUCTURE",
+                "Word": "left circumflex artery",
+                "Score": "0.96378195"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "angiography",
+                "Score": "0.9177596"
+            },
+            {
+                "Entity": "LAB_VALUE",
+                "Word": "30%",
+                "Score": "0.86635077"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "stenosis",
+                "Score": "0.935778"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "dissection",
+                "Score": "0.9129586"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "aspirin",
+                "Score": "0.954312"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "atorvastatin",
+                "Score": "0.96556973"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "plavix",
+                "Score": "0.96053284"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "metoprolol",
+                "Score": "0.96357125"
+            },
+            {
+                "Entity": "DISEASE_DISORDER",
+                "Word": "diastolic dysfunction",
+                "Score": "0.81451374"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "ECHO",
+                "Score": "0.9693915"
+            },
+            {
+                "Entity": "LAB_VALUE",
+                "Word": "low normal",
+                "Score": "0.95250416"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "LVEF",
+                "Score": "0.9305675"
+            },
+            {
+                "Entity": "BIOLOGICAL_STRUCTURE",
+                "Word": "LV",
+                "Score": "0.85064644"
+            },
+            {
+                "Entity": "DETAILED_DESCRIPTION",
+                "Word": "flash",
+                "Score": "0.83289033"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "lasix",
+                "Score": "0.91351616"
+            },
+            {
+                "Entity": "THERAPEUTIC_PROCEDURE",
+                "Word": "NRB mask",
+                "Score": "0.7850258"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "metoprolol",
+                "Score": "0.9708852"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "nifedipine",
+                "Score": "0.9618862"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "Lisinopril",
+                "Score": "0.9624452"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "Lasix",
+                "Score": "0.9612515"
+            },
+            {
+                "Entity": "DOSAGE",
+                "Word": "40 mg daily",
+                "Score": "0.9118497"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "fluid status",
+                "Score": "0.9434627"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "lasix",
+                "Score": "0.96874243"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "Weight",
+                "Score": "0.8902875"
+            },
+            {
+                "Entity": "LAB_VALUE",
+                "Word": "59 kg",
+                "Score": "0.88451874"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "RHYTHM",
+                "Score": "0.9807479"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "metoprolol",
+                "Score": "0.95032483"
+            },
+            {
+                "Entity": "DOSAGE",
+                "Word": "50 mg",
+                "Score": "0.8421438"
+            },
+            {
+                "Entity": "DOSAGE",
+                "Word": "12.5 mg",
+                "Score": "0.7693498"
+            },
+            {
+                "Entity": "DISEASE_DISORDER",
+                "Word": "Immune Suppression",
+                "Score": "0.79655075"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "sirolimus",
+                "Score": "0.97633165"
+            },
+            {
+                "Entity": "DOSAGE",
+                "Word": "3 mg daily",
+                "Score": "0.9139288"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "tacrolimus",
+                "Score": "0.97541976"
+            },
+            {
+                "Entity": "DOSAGE",
+                "Word": "2 mg twice daily",
+                "Score": "0.84186405"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "prednisone",
+                "Score": "0.97472453"
+            },
+            {
+                "Entity": "DOSAGE",
+                "Word": "4mg daily",
+                "Score": "0.894893"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "bactrim prophylaxis",
+                "Score": "0.8535311"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "A1C",
+                "Score": "0.9676202"
+            },
+            {
+                "Entity": "LAB_VALUE",
+                "Word": "8.7%",
+                "Score": "0.97502744"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "Lantus",
+                "Score": "0.9457793"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "insulin",
+                "Score": "0.9496068"
+            },
+            {
+                "Entity": "LAB_VALUE",
+                "Word": "good",
+                "Score": "0.88630235"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "blood glucose",
+                "Score": "0.94931734"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "creatinine",
+                "Score": "0.9573305"
+            },
+            {
+                "Entity": "LAB_VALUE",
+                "Word": "0.8-1.1",
+                "Score": "0.8921886"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "Cr",
+                "Score": "0.9170693"
+            },
+            {
+                "Entity": "LAB_VALUE",
+                "Word": "mildly from baseline",
+                "Score": "0.9157632"
+            },
+            {
+                "Entity": "DISEASE_DISORDER",
+                "Word": "renal failure",
+                "Score": "0.9023329"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "Cr",
+                "Score": "0.9330199"
+            },
+            {
+                "Entity": "LAB_VALUE",
+                "Word": "1.3",
+                "Score": "0.98026323"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "metoprolol",
+                "Score": "0.9767418"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "nifedipine",
+                "Score": "0.9683433"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "hypotension",
+                "Score": "0.94678617"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "nifedipine",
+                "Score": "0.9662042"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "metoprolol",
+                "Score": "0.9683423"
+            },
+            {
+                "Entity": "DOSAGE",
+                "Word": "50 mg",
+                "Score": "0.88803524"
+            },
+            {
+                "Entity": "DOSAGE",
+                "Word": "12.5 mg XR po daily",
+                "Score": "0.8990017"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "Lisinopril",
+                "Score": "0.968585"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "SBP",
+                "Score": "0.82552123"
+            },
+            {
+                "Entity": "LAB_VALUE",
+                "Word": "120",
+                "Score": "0.81178343"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "bupropion",
+                "Score": "0.97455364"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "citalopram",
+                "Score": "0.97430986"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "Pain",
+                "Score": "0.9037811"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "nausea",
+                "Score": "0.9618804"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "vomiting",
+                "Score": "0.8923765"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "oxycodone",
+                "Score": "0.96586144"
+            },
+            {
+                "Entity": "BIOLOGICAL_STRUCTURE",
+                "Word": "ankle",
+                "Score": "0.9479826"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "Ultram",
+                "Score": "0.9352983"
+            },
+            {
+                "Entity": "BIOLOGICAL_STRUCTURE",
+                "Word": "left leg",
+                "Score": "0.9702029"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "pain",
+                "Score": "0.9069401"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "oxycodone",
+                "Score": "0.96161014"
+            },
+            {
+                "Entity": "BIOLOGICAL_STRUCTURE",
+                "Word": "left leg",
+                "Score": "0.96599895"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "pain",
+                "Score": "0.85371727"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "Insomnia",
+                "Score": "0.89820963"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "trazodone",
+                "Score": "0.96856433"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "Nausea",
+                "Score": "0.9214991"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "reglan",
+                "Score": "0.96662915"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "zofran",
+                "Score": "0.968596"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "vitamin D",
+                "Score": "0.8416451"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "calcium",
+                "Score": "0.928811"
+            }
+        ]
+    },
+    {
+        "Id": 69472,
+        "Text": "This 57-year-old patient with recent syncopal attacks was investigated and was found to have a critical aortic stenosis, moderate mitral regurgitation with preserved left ventricular function. The patient was brought to the operating room on  where the patient underwent an aortic valve replacement with size 23 St.  Regent mechanical valve and mitral valve repair with size 26  annuloplasty band. Overall the patient tolerated the procedure well and post-operatively was transferred to the CVICU in stable condition for recovery and invasive monitoring.  The patient was diuresed on post operative day 1 and ventilator was weaned. Early POD 2 found the patient extubated, alert and oriented and breathing comfortably.  She was weaned off her vasoactive medications on post operative day 2, including epinephrine and Neosynephrine. Beta blocker was initiated and the patient was gently diuresed toward the preoperative weight. She went into a rapid atrial fibrillation and was loaded with Amiodarone in the CVICU. The patient was transferred to the telemetry floor for further recovery. Beta blockers were increased and Diltiazem was added for better heart rate control. Coumadin was started for atrial fibrillation and mechanical AVR.  She was therapeutic with her INR at the time of discharge with a goal INR 2.5-3.5. Chest tubes and pacing wires were discontinued without complication. Cipro was started for a Klebsiella UTI (sensitive to Cipro).  She was completing a 3 day course at the time of discharge and had a repeat urine culture prior to discharge which was pending. An echocardiogram was done on  and results were pending at the time of this discharge summary. Upon discharge Zaroxyln was stopped and Lasix was changed to 40 mg po BID due to slight rise in BUN and creatinine.  Her fluid status should be monitored closely and Lasix dosing is to be reevaluated in 2 weeks based on need for further diuresis.   The patient was evaluated by the physical therapy service for assistance with strength and mobility.  By the time of discharge on POD 9 the patient was ambulating with assistance, she was tolerating a full oral diet, the wound was healing and pain was controlled with Ultram.  The patient was discharged to  House Rehab in  in good condition with appropriate follow up appointment instructions and lab work instructions.",
+        "Entities": [
+            {
+                "Entity": "AGE",
+                "Word": "57-year-old",
+                "Score": "0.96241343"
+            },
+            {
+                "Entity": "DISEASE_DISORDER",
+                "Word": "aortic stenosis",
+                "Score": "0.80804765"
+            },
+            {
+                "Entity": "SEVERITY",
+                "Word": "moderate",
+                "Score": "0.7983386"
+            },
+            {
+                "Entity": "LAB_VALUE",
+                "Word": "preserved",
+                "Score": "0.8752075"
+            },
+            {
+                "Entity": "CLINICAL_EVENT",
+                "Word": "brought",
+                "Score": "0.89282113"
+            },
+            {
+                "Entity": "NONBIOLOGICAL_LOCATION",
+                "Word": "operating room",
+                "Score": "0.81447965"
+            },
+            {
+                "Entity": "THERAPEUTIC_PROCEDURE",
+                "Word": "valve replacement",
+                "Score": "0.8132256"
+            },
+            {
+                "Entity": "DETAILED_DESCRIPTION",
+                "Word": "size 23 St. Regent",
+                "Score": "0.94475985"
+            },
+            {
+                "Entity": "DETAILED_DESCRIPTION",
+                "Word": "size 26",
+                "Score": "0.8735851"
+            },
+            {
+                "Entity": "CLINICAL_EVENT",
+                "Word": "transferred",
+                "Score": "0.8870965"
+            },
+            {
+                "Entity": "NONBIOLOGICAL_LOCATION",
+                "Word": "CVICU",
+                "Score": "0.83566296"
+            },
+            {
+                "Entity": "LAB_VALUE",
+                "Word": "stable",
+                "Score": "0.8710292"
+            },
+            {
+                "Entity": "DETAILED_DESCRIPTION",
+                "Word": "invasive",
+                "Score": "0.8139643"
+            },
+            {
+                "Entity": "THERAPEUTIC_PROCEDURE",
+                "Word": "diuresed",
+                "Score": "0.85322505"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "alert",
+                "Score": "0.8624842"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "oriented",
+                "Score": "0.84384644"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "vasoactive medications",
+                "Score": "0.95447445"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "epinephrine",
+                "Score": "0.9757194"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "Neosynephrine",
+                "Score": "0.9761238"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "Beta blocker",
+                "Score": "0.96205497"
+            },
+            {
+                "Entity": "THERAPEUTIC_PROCEDURE",
+                "Word": "diuresed",
+                "Score": "0.9088699"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "Amiodarone",
+                "Score": "0.9776903"
+            },
+            {
+                "Entity": "NONBIOLOGICAL_LOCATION",
+                "Word": "CVICU",
+                "Score": "0.8107581"
+            },
+            {
+                "Entity": "CLINICAL_EVENT",
+                "Word": "transferred",
+                "Score": "0.8734053"
+            },
+            {
+                "Entity": "NONBIOLOGICAL_LOCATION",
+                "Word": "telemetry floor",
+                "Score": "0.8052683"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "Beta blockers",
+                "Score": "0.9198829"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "Diltiazem",
+                "Score": "0.9752173"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "Coumadin",
+                "Score": "0.9777793"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "INR",
+                "Score": "0.96438897"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "INR",
+                "Score": "0.7998116"
+            },
+            {
+                "Entity": "LAB_VALUE",
+                "Word": "2.5",
+                "Score": "0.96274525"
+            },
+            {
+                "Entity": "LAB_VALUE",
+                "Word": "3.5",
+                "Score": "0.86693674"
+            },
+            {
+                "Entity": "THERAPEUTIC_PROCEDURE",
+                "Word": "pacing wires",
+                "Score": "0.87108344"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "Cipro",
+                "Score": "0.9764698"
+            },
+            {
+                "Entity": "DISEASE_DISORDER",
+                "Word": "Klebsiella",
+                "Score": "0.8075661"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "urine culture",
+                "Score": "0.9839841"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "echocardiogram",
+                "Score": "0.96283716"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "Zaroxyln",
+                "Score": "0.96820337"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "Lasix",
+                "Score": "0.96519953"
+            },
+            {
+                "Entity": "DOSAGE",
+                "Word": "40 mg po BID",
+                "Score": "0.87876076"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "BUN",
+                "Score": "0.9617548"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "creatinine",
+                "Score": "0.9688329"
+            },
+            {
+                "Entity": "DIAGNOSTIC_PROCEDURE",
+                "Word": "fluid status",
+                "Score": "0.92693913"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "Lasix",
+                "Score": "0.8458196"
+            },
+            {
+                "Entity": "CLINICAL_EVENT",
+                "Word": "discharge",
+                "Score": "0.80540824"
+            },
+            {
+                "Entity": "SIGN_SYMPTOM",
+                "Word": "ambulating",
+                "Score": "0.85341483"
+            },
+            {
+                "Entity": "MEDICATION",
+                "Word": "Ultram",
+                "Score": "0.96901464"
+            },
+            {
+                "Entity": "CLINICAL_EVENT",
+                "Word": "discharged",
+                "Score": "0.86802584"
+            },
+            {
+                "Entity": "NONBIOLOGICAL_LOCATION",
+                "Word": "House Rehab",
+                "Score": "0.77952456"
+            },
+            {
+                "Entity": "LAB_VALUE",
+                "Word": "good",
+                "Score": "0.81369925"
+            }
+        ]
+    }
+]
